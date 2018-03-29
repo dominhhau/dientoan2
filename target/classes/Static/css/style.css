@@ -1,0 +1,166 @@
+header {
+	padding-top: 20px;
+	padding-bottom:20px;
+
+}
+
+.sidebar-img{
+	width:100%;
+}
+
+.sidebar-function{
+	padding:0px;
+}
+
+.sidebar-list .media{
+	padding-bottom: 1em;
+	border-bottom: 1px solid #e8e8e8;
+}
+
+.nounderline:hover{
+	text-decoration: none;
+}
+
+.nopadding{
+	padding: 0px;
+}
+
+footer{
+	margin-top: 25px;
+	padding-top: 25px;
+	padding-bottom: 15px;
+	background-color: #343a40!important;
+}
+
+footer .school{
+	color: #333;
+}
+
+.main-slider{
+	margin-bottom: 30px;
+}
+
+.carousel-caption {
+	width: 100%;
+	left: 0px;
+    background-color: rgba(0, 0, 0, 0.8); 
+    padding-top: 0px;
+    
+}
+
+.navbar-right{
+	margin-right: 0px;
+}
+
+.just-padding {
+  padding: 15px;
+}
+
+.list-group-nomargin{
+	margin-bottom:1px;
+}
+
+.list-group.list-group-root {
+  padding: 0;
+  overflow: hidden;
+}
+
+.list-group.list-group-root .list-group {
+  margin-bottom: 0;
+}
+
+.list-group.list-group-root .list-group-item {
+  border-radius: 0;
+  border-width: 1px 0 0 0;
+}
+
+.list-group.list-group-root > .list-group-item:first-child {
+  border-top-width: 0;
+}
+
+.list-group.list-group-root > .list-group > .list-group-item {
+  padding-left: 50px;
+}
+
+.list-group.list-group-root > .list-group > .list-group > .list-group-item {
+  padding-left: 80px;
+}
+
+.list-group-item .glyphicon {
+  margin-right: 5px;
+}
+
+ .avatar {
+	padding:0;
+}
+
+.carousel-indicators{
+	bottom :0px;
+}
+
+.carousel-caption{
+	bottom:0px;
+}
+
+ .glyphicon-lg{
+	font-size: 60px;
+}
+
+.function-heading{
+	font-size:25px;
+	vertical-align: middle;
+}
+
+.carousel-inner > .item > img {
+	width:750px;
+	height:400px;
+}
+
+.media:last-child {
+	border-bottom: 0;
+}
+
+#listnews {
+	margin: 0px;
+	padding-bottom: 0px;
+}
+
+.panel-listnews{
+	border-color: white;
+}
+
+.panel-primary {
+	background-color: #fff;
+}
+
+.panel-primary > .panel-heading-listnews {
+background: #333;
+}
+
+.panel-deadline{
+	border-color:#333;
+}
+
+.panel-primary > .panel-heading-deadlines {
+background: #333;
+}
+
+#img-banner {
+	width:100%;
+}
+
+.venue_hotel-page img {
+	width:100%;
+}
+
+.notification-page img {
+	width:100%;
+}
+
+.contact-page img {
+	width:100%;
+}
+
+.index-page img {
+	width:100%;
+}
